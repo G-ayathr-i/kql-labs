@@ -12,7 +12,6 @@ To investigate a targeted phishing attack against a social media influencer usin
 
 ## What I Did
 
-* Completed the **Clout Defender** investigation on KC7.
 * Investigated a targeted spear-phishing attack against a social media influencer.
 * Analyzed phishing emails and malicious URLs.
 * Investigated malicious inbox forwarding rules and email filters.
