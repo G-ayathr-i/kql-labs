@@ -1,5 +1,6 @@
 # Clout Defender: Phishing Investigation
 
+[View Badge](Clout_Defender.pdf)
 
 - Date:27 June 2026
 - Platform:KC7
