@@ -1,6 +1,6 @@
 # The Valdorian Times: Political Influence Investigation
 
-[View Badge]KC7/Valdorian_Times.pdf
+[View Badge](KC7/Valdorian_Times.pdf)
 
 * Date: 28 June 2026
 * Platform: KC7
